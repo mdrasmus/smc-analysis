@@ -1,0 +1,2 @@
+git+https://github.com/mdrasmus/compbio.git#egg=compbio
+git+https://github.com/mdrasmus/rpy.git#egg=rpy
